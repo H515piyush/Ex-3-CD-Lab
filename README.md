@@ -63,8 +63,8 @@ yyparse();
 ~~~
 # OUTPUT
 
+![377754049-7f34ce8f-a34f-4136-876e-c85354c2b71e](https://github.com/user-attachments/assets/8540e849-7e46-490f-831f-47b5868afebf)
 
-![WhatsApp Image 2024-10-05 at 16 29 45_5a8001de](https://github.com/user-attachments/assets/5efab639-5741-403e-b779-e5d8e21e25b3)
 
 
 # RESULT  
